@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(https://img.freepik.com/free-vector/seamless-gold-rhombus-grid-pattern-black-background_53876-97589.jpg?ga=GA1.1.187489777.1728997407&semt=ais_hybrid);
+    background-image: url(https://img.freepik.com/premium-vector/seamless-gold-hexagon-grid-pattern-black-background-vector_53876-161742.jpg?ga=GA1.1.187489777.1728997407&semt=ais_hybrid);
     background-size: cover;
+    height: 750px;
 }
 .resume-container{
     width: 370px;
@@ -13,9 +14,7 @@ body{
     border: 2px solid black;
 }
 .hero-sec{
-    display: flex;
-    /* background-image: url(https://img.freepik.com/free-vector/seamless-gold-rhombus-grid-pattern-black-background_53876-97589.jpg?ga=GA1.1.187489777.1728997407&semt=ais_hybrid);
-    background-size: cover; */
+    display: flex;;
     height: 150px;
 }
 h1{
